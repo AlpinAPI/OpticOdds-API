@@ -1,8 +1,6 @@
 
 # OpticOdds – Premier Sports‑Betting Data, Odds API & Trading Services  
 
-*Published: 2026 (latest information retrieved via web search)*  
-
 
 ⚡ [Connect API ](https://opticodds.com/)
 
